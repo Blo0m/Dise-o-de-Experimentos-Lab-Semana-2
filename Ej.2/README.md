@@ -1,4 +1,4 @@
-#Explicacion del ejercicio 2
+# Reporte EJERCICIO 2
 Ejercicio 2:
 •	Framework utilizado: ASP.NET Web Service Framework
 •	Error de compilación: “BC30035: Syntax error”
